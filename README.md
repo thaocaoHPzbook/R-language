@@ -8,6 +8,7 @@ B2: nói cho R biết chúng ta làm việc ở folder nào bằng lệnh setwd
 B3:
 **Gọi gói gdata trước khi sử dụng**    
 `library("gdata")`    
+B4: lệnh đọc file
 **Nếu là xls files**    
 `fto <- read.xls("FTO gene.xls")`    
 `hoặc fto = read.xls("FTO gene.xls", header=T)`   
