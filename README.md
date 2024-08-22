@@ -4,10 +4,10 @@ B1: Cài đặt package
     `install.packages("readxl")`   
 #R sẽ bắt chọn gói ngôn ngữ, nên chọn gói US (tiếng anh)
 B2:
-# Loading
+**Loading**
 library("readxl")
-# Nếu là xls files
+**Nếu là xls files**
 my_data <- read_excel("my_file.xls")
-#  Nếu là xlsx files
+**Nếu là xlsx files***
 my_data <- read_excel("my_file.xlsx")
 
