@@ -12,7 +12,7 @@ B4: lệnh đọc file
 **Nếu là xls files**    
 `fto <- read.xls("FTO gene.xls")`    
 hoặc `fto = read.xls("FTO gene.xls", header=T)`    
-hoặc 'fto = read.xls ("kéo link file", header=T)
+hoặc 'fto = read.xls ("kéo link file", header=T)    
 **Nếu là xlsx files**    
 `fto <- read.xlsx("FTO gene.xls")`    
 hoặc `fto = read.xlsx("FTO gene.xls", header=T)`    
