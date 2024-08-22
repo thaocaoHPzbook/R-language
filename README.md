@@ -8,6 +8,6 @@ B2:
 library("readxl")
 **Nếu là xls files**
 my_data <- read_excel("my_file.xls")
-**Nếu là xlsx files***
+**Nếu là xlsx files**
 my_data <- read_excel("my_file.xlsx")
 
