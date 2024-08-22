@@ -8,7 +8,7 @@ B2:
 `library("gdata")`    
 **Nếu là xls files**    
 `my_data <- read_excel("my_file.xls")`    
-`hoặc my_data = read_excel("my_file.xls", header=T)` 
+`hoặc my_data = read_excel("my_file.xls", header=T)`   
 **Nếu là xlsx files**    
 `my_data <- read_excel("my_file.xlsx")`    
 `hoặc my_data = read_excel("my_file.xlsx", header=T)`    
